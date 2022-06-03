@@ -1,0 +1,9 @@
+node_modules
+.keystone/admin
+keystone.db
+*.log
+migrations
+*.jpg
+.next
+.graphql
+.prisma
